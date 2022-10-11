@@ -1,0 +1,21 @@
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+
+/usr/bin/bash: wq: command not found
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+
+
